@@ -1,1 +1,5 @@
-A YOLO11n based car image classification model that is trained on the cars currently operational on roads of Pakistan.
+- Implements a YOLO11n-based system for detecting and classifying cars currently operating on Pakistani roads.  
+- Trained on a comprehensive local dataset to ensure accurate real-time identification.  
+- Assigns a persistent ID to each detected vehicle, enabling continuous tracking across a network of high-quality cameras.  
+- Logs vehicle movements to a central database and flags any IDs linked to known offenses for investigation.  
+- Provides law enforcement with real-time alerts and historical movement data to deter and solve road crimes efficiently.  
