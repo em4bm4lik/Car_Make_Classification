@@ -1,5 +1,5 @@
 - Implements a YOLO11n-based system for detecting and classifying cars currently operating on Pakistani roads.  
 - Trained on a comprehensive local dataset to ensure accurate real-time identification.  
 - Assigns a persistent ID to each detected vehicle, enabling continuous tracking across a network of high-quality cameras.  
-- Logs vehicle movements to a central database and flags any IDs linked to known offenses for investigation.  
-- Provides law enforcement with real-time alerts and historical movement data to deter and solve road crimes efficiently.  
+- Can be enhanced further to log vehicle movements into a central database and flag any IDs linked to known offenses for investigation.  
+- The main purpose being law enforcement with real-time alerts and historical movement data to deter and solve road crimes efficiently.  
